@@ -31,7 +31,7 @@
    - **Cronograma Básico:** Estabelecer um cronograma básico para cada etapa.
 
 7. **Divisão de Tarefas**
-   - **Responsabilidades:** Dividir as tarefas principais entre os membros do grupo com base em suas habilidades e interesses.
+   - **Responsabilidades:** Dividir as tarefas principais entre os membros do grupo com base em suas habilidades e interesses. Todos os membros do grupo devem participar ativamente. Os membros também devem ajudar seus colegas de grupo a realizarem suas tarefas individuais.
 
 8. **Escrita do Resumo**
    - **Estrutura:** Utilizar a estrutura a seguir para escrever o resumo do projeto:
